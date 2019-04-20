@@ -1,0 +1,4 @@
+Sitemap: https://jaagrit-sapana.github.io/kill-plagiarism/sitemapindex.xml
+
+User-Agent: *
+Host: jaagrit-sapana.github.io
